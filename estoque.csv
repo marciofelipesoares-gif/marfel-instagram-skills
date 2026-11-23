@@ -1,1 +1,5 @@
-modelo,ano,km,cambio,combustivel,cor,preco,diferenciais,status,link_site
+modelo,ano,km,cambio,combustivel,cor,preco,diferenciais,status,link_site,placa
+Fiat Mobi Like 1.0 4P,2025/2025,,Manual,,,61900,,disponivel,,TDS0E27
+BYD Dolphin GS 4P,2024/2025,,Automatico,,,110900,,disponivel,,SKH9F04
+Ford Ka Sedan SE 1.5 4P,2019/2019,,Automatico,,,54900,,disponivel,,PLN8B86
+Renault Kwid Zen 1.0 4P,2023/2024,,Manual,,,52900,,disponivel,,SJZ2F03
